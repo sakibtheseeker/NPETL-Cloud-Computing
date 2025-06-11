@@ -61,7 +61,7 @@ Each folder may include:
 
 ## 🏆 Certificate
 
-📄 [View Certificate](CloudC-Computing-Certificate.pdf)
+📄 [View Certificate](Cloud-Computing-Certificate.pdf)
 
 ---
 
