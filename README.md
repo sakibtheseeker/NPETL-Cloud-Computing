@@ -21,19 +21,6 @@ This repository contains assignments, lecture notes, and practical resources rel
 
 ---
 
-## 🧠 Course Summary
-
-- **Status:** Completed  
-- **Course Type:** Elective  
-- **Language:** English  
-- **Duration:** 12 weeks  
-- **Credits:** 3  
-- **Level:** Undergraduate  
-- **Start Date:** 20 Jan 2025  
-- **End Date:** 11 Apr 2025  
-- **Exam Date:** 03 May 2025 (subject to change)
-
----
 
 ## 🎯 Intended Audience
 
@@ -74,7 +61,7 @@ Each folder may include:
 
 ## 🏆 Certificate
 
-📄 View Certificate *(Add your certificate link here)*
+📄 [View Certificate](CloudC-Computing-Certificate.pdf)
 
 ---
 
